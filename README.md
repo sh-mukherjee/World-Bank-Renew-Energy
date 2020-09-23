@@ -1,5 +1,6 @@
-# World-Bank-Renew-Energy
+# World Bank Renewable Energy Consumption from 1990 to 2015
 Analysis of World Bank data on renewable energy consumption as a percentage of total energy consumption
+
 In this notebook, we will be working with the Renewable Energy Consumption (% Of Total Final Energy Consumption) dataset from the World Bank. We will perform analysis on this data using visualizations with Plotly Express and JupyterDash (the Dash web application library adapted for use in Jupyter notebooks)
 
  **Attribution**
